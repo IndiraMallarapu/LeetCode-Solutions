@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -35,18 +37,21 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -108,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -129,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
