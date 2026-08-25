@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
