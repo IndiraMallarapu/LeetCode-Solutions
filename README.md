@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [3310-remove-methods-from-project](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
