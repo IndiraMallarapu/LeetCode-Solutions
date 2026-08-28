@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
