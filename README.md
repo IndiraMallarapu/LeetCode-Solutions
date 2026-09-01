@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
