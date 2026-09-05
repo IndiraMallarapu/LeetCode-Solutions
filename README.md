@@ -207,8 +207,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
