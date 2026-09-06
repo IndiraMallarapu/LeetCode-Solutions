@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
