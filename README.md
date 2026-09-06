@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
