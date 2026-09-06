@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Indira-05G7/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
